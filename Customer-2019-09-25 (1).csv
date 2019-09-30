@@ -1,0 +1,3 @@
+taskID,customerCode,custFirstName,custLastname,deliveryaddress,statusCode,statusDescription
+3,Ne-045,Johan,Nelson,"98 Arlanda,Arcadia, Pretoria",200,Dispatched
+2,Sm-004,John,Smith,"44 Metro Str, Highveld, Centurion",100,Orderplaced

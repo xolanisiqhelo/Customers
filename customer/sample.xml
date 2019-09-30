@@ -1,0 +1,23 @@
+<?xml version=""?>
+<customers>
+         <customer>
+                <CustomerCode>LA001</CustomerCode>
+                <StatusCode>400</StatusCode>
+            </customer>
+            <customer>
+                    <CustomerCode>VG002</CustomerCode>
+                    <StatusCode>100</StatusCode>
+            </customer>
+            <customer>
+                    <CustomerCode>NJ045</CustomerCode>
+                    <StatusCode>200</StatusCode>
+            </customer>
+            <customer>
+                    <CustomerCode>SJ004</CustomerCode>
+                    <StatusCode>100</StatusCode>
+            </customer>
+            <customer>
+                    <CustomerCode>ME090</CustomerCode>
+                    <StatusCode>300</StatusCode>
+            </customer>
+</customers>
